@@ -2,7 +2,7 @@
 
 Created with love by: Thuy G Ho
 
-Play the game at: guess-the-number-game.netlify.com
+## Play the game at: www.guess-the-number-game.netlify.com
 
 ## Video Walkthrough
 
