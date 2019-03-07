@@ -1,8 +1,8 @@
-# CoderSchool FTW - * Name of Your Project Here *
+# Number Guessing Game
 
-Created with love by: <Your Name Here>
-  
-One or two sentence summary of your project. 
+Created with love by: Thuy G Ho
+
+Play the game at: guess-the-number-game.netlify.com
 
 ## Video Walkthrough
 
